@@ -16,10 +16,10 @@
 # Awesome Seedance 2.0 プロンプト集
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![GitHub stars](https://img.shields.io/github/stars/atlascloud/awesome-seedance-2-prompts?style=social)](https://github.com/ristponex/awesome-seedance-2-prompts/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/atlascloud/awesome-seedance-2-prompts?style=social)](https://github.com/divolleggett/awesome-seedance-2-prompts/stargazers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Last Commit](https://img.shields.io/github/last-commit/atlascloud/awesome-seedance-2-prompts)](https://github.com/ristponex/awesome-seedance-2-prompts/commits/main)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ristponex/awesome-seedance-2-prompts/pulls)
+[![Last Commit](https://img.shields.io/github/last-commit/atlascloud/awesome-seedance-2-prompts)](https://github.com/divolleggett/awesome-seedance-2-prompts/commits/main)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/divolleggett/awesome-seedance-2-prompts/pulls)
 [![Seedance](https://img.shields.io/badge/Seedance-2.0-blue?logo=bytedance&logoColor=white)](https://seed.bytedance.com/)
 [![Atlas Cloud](https://img.shields.io/badge/今すぐ試す-Atlas%20Cloud-orange)](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-seedance-2-prompts)
 
@@ -1003,6 +1003,6 @@ Seedance 2.0 は 8言語以上の音素レベルリップシンクに対応し�
 
 このリポジトリが役立ったら、スターを付けて仲間のクリエイターにシェアしてください！
 
-[バグ報告](https://github.com/ristponex/awesome-seedance-2-prompts/issues) | [プロンプトリクエスト](https://github.com/ristponex/awesome-seedance-2-prompts/issues) | [コントリビュート](https://github.com/ristponex/awesome-seedance-2-prompts/pulls)
+[バグ報告](https://github.com/divolleggett/awesome-seedance-2-prompts/issues) | [プロンプトリクエスト](https://github.com/divolleggett/awesome-seedance-2-prompts/issues) | [コントリビュート](https://github.com/divolleggett/awesome-seedance-2-prompts/pulls)
 
 </div>
