@@ -43,7 +43,7 @@ CNN called it **"China's latest AI so powerful it's panicking Hollywood."**
 
 The fastest and most affordable way to run Seedance 2.0 at full quality.
 
-**Uncensored AI** | **Lowest Price from $0.044/s** | **2x Faster Inference**
+**Lowest Price from $0.044/s** | **2x Faster Inference**
 
 [![Try Atlas Cloud](https://img.shields.io/badge/Try%20Atlas%20Cloud-Start%20Free-ff6b35?style=for-the-badge&logo=rocket&logoColor=white)](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-seedance-2-prompts)
 
@@ -52,8 +52,6 @@ New users get **25% bonus** on first top-up (up to $100)
 </div>
 
 > 🔒 **Enterprise-Grade Security** — Atlas Cloud is **SOC I & II Certified** | **HIPAA Compliant** | US-based company with 99.9% uptime SLA.
-
-> 🎨 **NSFW Whitelist Update** — In addition to Seedance and Kling, the **Vidu series** (Q3-Pro, Q3-Turbo) is now also whitelisted for uncensored content generation on Atlas Cloud.
 
 ---
 
@@ -948,11 +946,11 @@ Master these techniques to get the most out of Seedance 2.0.
 
 Choose the best platform to run your Seedance prompts.
 
-| Provider | Price / Video | Speed | Quality | NSFW | API Access | Audio Included |
-|:---------|:-------------|:------|:--------|:-----|:-----------|:---------------|
-| **Atlas Cloud** | **$0.222** | Fast | Top | Yes | Yes | Yes |
-| Jimeng (Official) | Limited free | Medium | Top | No | Limited | Yes |
-| Other Providers | $0.30+ | Varies | Varies | No | Varies | Varies |
+| Provider | Price / Video | Speed | Quality | API Access | Audio Included |
+| :--------- | :------------- | :------ | :-------- | :----------- | :--------------- |
+| **Atlas Cloud** | **$0.222** | Fast | Top | Yes | Yes |
+| Jimeng (Official) | Limited free | Medium | Top | Limited | Yes |
+| Other Providers | $0.30+ | Varies | Varies | Varies | Varies |
 
 ### Atlas Cloud Pricing Details
 
@@ -1056,7 +1054,6 @@ Love these prompts? Run them instantly on **Atlas Cloud** — the industry's mos
 
 | Benefit | Details |
 |:--------|:--------|
-| **Uncensored AI** | 100% creative freedom, no content restrictions |
 | **Lowest Price** | Starting from $0.044/s with 90% discount |
 | **High Performance** | Fast inference, no queue wait times |
 | **25% Bonus** | New users get up to $100 bonus on first top-up |
